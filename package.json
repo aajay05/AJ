@@ -1,0 +1,22 @@
+{
+  "name": "aj",
+  "version": "1.0.0",
+  "description": "first express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aajay05/AJ.git"
+  },
+  "author": "AJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aajay05/AJ/issues"
+  },
+  "homepage": "https://github.com/aajay05/AJ#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
